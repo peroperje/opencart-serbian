@@ -1,0 +1,26 @@
+2012-02-12 21:42:52 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:42:52 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:42:52 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:42:52 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:43:37 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:43:37 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:43:37 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:43:37 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:44:18 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:44:18 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:44:18 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:44:18 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:44:56 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:44:56 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:44:56 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:44:56 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:49:19 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:49:19 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:49:19 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:49:19 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:52:28 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:52:28 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 17
+2012-02-12 21:52:28 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:52:28 - PHP Notice:  Undefined index: zone_id in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\tax.php on line 31
+2012-02-12 21:54:47 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\mail.php on line 157
+2012-02-14 16:24:39 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OPENCART_SERBIAN\system\library\mail.php on line 157

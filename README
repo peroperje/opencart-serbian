@@ -1,0 +1,35 @@
+== Opencart serbian language ver. 1.5.1.3 ==
+Verzija koju vidite je Srpski latinicni prevod OpenCart 1.5.1.3.Prevod nije bukvalan,vec je pokusaj da se prevede u duhu srpskog jezika.
+
+Prevod koji ovde preuzimate je radna verzija i moguce su greske kako u samom prevodu,tako i u funkcionisanju Opencart aplikacije.Sve eventualne greske mozete ovde prijaviti,a takodje ste dobro dosli da svojim radom unapredite postojecu verziju
+
+=== Instalacija ===
+*  Skinite  zadnju verziju Opencart serbian
+
+*  Iskopirajte celokupan serbian folder koji se nalazi ../admin/language/  na isti lokaciju Vase Opencart aplikacije
+
+* Iskopirajte celokupan serbian folder koji se nalazi ../catalog/language/  na isti lokaciju Vase Opencart aplikacije
+
+* ikopirajte ser.png fajl koji se nalazi ../image/flags na istu lokaciju Vase Opencart aplikacije
+* ikopirajte ser.png fajl koji se nalazi ..admin/view/image/flags na istu lokaciju Vase Opencart aplikacije
+
+* Ulogujte se admin panel Vase OpenCart aplikacije i otvorite System->Localisation->Languages
+
+* Popunite obrazac na sledeci nacin:
+Language Name:Srpski
+ # Code:sr
+ # Locale:UTF-8
+ # Image:ser.png
+ # Directory:serbian
+ # Filename:serbian
+ # Status:Enabled
+ # Sort Order:1
+
+*Otvorite System->Settings a zatim kliknite na opciju Edit
+
+*U padajucem meniju kod opcije Language izaberite Srpski ako zelite da bi korisnicki deo imao i srpski prevod ,odnosno Administration Language ako zelite da vam administratorski deo bude na srpskom.
+
+
+
+
+
